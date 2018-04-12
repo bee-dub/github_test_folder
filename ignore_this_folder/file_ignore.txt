@@ -1,2 +1,4 @@
 this is in ignore this folder
 Is it ignoring this file in folder?
+checking if it will ignore file
+
