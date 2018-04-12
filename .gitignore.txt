@@ -1,5 +1,5 @@
 ignore_this_file.txt
 
-ignore_this_folder/file_ignore.txt
+ignore_this_folder/ignore_folder
 
 ya.txt
